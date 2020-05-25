@@ -10,7 +10,7 @@ Chart contains:<br>
 ## Data ##
 D3_data-journalism/StarterCode/assets/data/data.csv
 ## Tool ##
-JavaScript, HTML, CSS
+JavaScript, HTML and CSS
 ## Visualization ##
 <img src="charts.PNG">
 
