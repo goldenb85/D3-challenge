@@ -5,6 +5,7 @@ This project is to use D3.js to create an interactive chart and display it on HT
 Chart contains:<br>
     y-axis: Lacks Healthcare(%)
     dual x-axis: Poverty (%)
+                 Age(Median)
 
 ## Data ##
 D3_data-journalism/StarterCode/assets/data/data.csv
