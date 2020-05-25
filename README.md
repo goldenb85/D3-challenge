@@ -2,6 +2,8 @@
 
 ## Summary ##
 This project is to use D3.js to create an interactive chart and display it on HTML.
+## Data ##
+/
 ## Tool ##
 JavaScript, HTML, CSS
 ## Visualization ##
