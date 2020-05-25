@@ -1,9 +1,9 @@
 # D3 -challenge - Data Journalism and D3
 
 ## Summary ##
-
+This project is to use D3.js to create charts and display the result on HTML.
 ## Tool ##
-
+JavaScript, HTML, CSS
 ## Visualization ##
 
 ## Background
