@@ -13,3 +13,5 @@ D3_data-journalism/StarterCode/assets/data/data.csv
 JavaScript, HTML, CSS
 ## Visualization ##
 <img src="charts.PNG">
+
+Email: xinlianghuang@gmail.com
