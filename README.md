@@ -14,4 +14,5 @@ JavaScript, HTML, CSS
 ## Visualization ##
 <img src="charts.PNG">
 
+Contact:
 Email: xinlianghuang@gmail.com
